@@ -3,6 +3,7 @@
 
 # Export your dataset from roboflow like above and then copy the link to google colab all the tutorial in the ipynb file.
 # This is the link of my dataset Holes(Lubang) DOWNLOAD MAKI KALAU MAU : https://app.roboflow.com/ds/1hJV1ZjPDd?key=ZQgUvewYXB
+# If u want the colab link below (Sempat mauki Link Colab nya gang : https://colab.research.google.com/drive/1Z1lbR_oTSaeodv9tTm11uEhOjhkUx1L4?usp=sharing&authuser=7#scrollTo=JvXVgSa7ElIU
 
 # Training-the-Vision-Transformer-on-a-Custom-Dataset-Hole
 How to training using Training the Vision Transformer on a Custom Dataset for Holes
